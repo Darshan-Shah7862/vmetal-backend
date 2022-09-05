@@ -4,6 +4,6 @@ module.exports = ({ env }) => ({
   proxy: true,
 
   app: {
-    keys: env("APP_KEYS"),
+    keys: env.array("", ["keys", "keys"]),
   },
 });
