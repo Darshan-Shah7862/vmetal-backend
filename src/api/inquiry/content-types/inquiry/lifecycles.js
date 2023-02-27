@@ -251,13 +251,13 @@ module.exports = {
                             </table>
                             <table align="center" border="0" cellpadding="0" cellspacing="0" class="row row-2"
                                 role="presentation"
-                                style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; background-color: #e8f4dc;" width="100%">
+                                style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; background-color: #072854;" width="100%">
                                 <tbody>
                                     <tr>
                                         <td>
                                             <table align="center" border="0" cellpadding="0" cellspacing="0"
                                                 class="row-content stack" role="presentation"
-                                                style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; background-position: center top; background-color: #e8f4dc; color: #000000; width: 680px;"
+                                                style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; background-position: center top; background-color: #072854; color: #000000; width: 680px;"
                                                 width="680">
                                                 <tbody>
                                                     <tr>
@@ -288,7 +288,7 @@ module.exports = {
                                                                                 style="font-size: 12px; font-family: Oswald, Arial, Helvetica Neue, Helvetica, sans-serif; mso-line-height-alt: 14.399999999999999px; color: #072854; line-height: 1.2;">
                                                                                 <p
                                                                                     style="margin: 0; font-size: 14px; text-align: center; mso-line-height-alt: 16.8px;">
-                                                                                    <span style="font-size:50px;"><strong>V
+                                                                                    <span style="font-size:50px;color: #fff;"><strong>V
                                                                                             metal solutions inc.</strong></span>
                                                                                 </p>
                                                                             </div>
@@ -308,11 +308,7 @@ module.exports = {
                                                                                 style="font-size: 12px; font-family: Roboto Slab, Arial, Helvetica Neue, Helvetica, sans-serif; mso-line-height-alt: 18px; color: #555555; line-height: 1.5;">
                                                                                 <p
                                                                                     style="margin: 0; font-size: 14px; text-align: center; mso-line-height-alt: 24px;">
-                                                                                    <span style="font-size:16px;">Sed ut
-                                                                                        perspiciatis unde omnis iste natus error
-                                                                                        sit voluptatem accusantium doloremque
-                                                                                        laudantium, totam rem aperiam, eaque
-                                                                                        ipsa quae ab illo</span></p>
+                                                                                    <span style="font-size:16px;color: #fff;">Thank you so much for reaching us out. We will get back to you in a while.</span></p>
                                                                             </div>
                                                                         </div>
                                                                     </td>
@@ -340,7 +336,7 @@ module.exports = {
                             </table>
                             <table align="center" border="0" cellpadding="0" cellspacing="0" class="row row-3"
                                 role="presentation"
-                                style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; background-color: #e8f4dc;" width="100%">
+                                style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; background-color: #072854;" width="100%">
                                 <tbody>
                                     <tr>
                                         <td>
@@ -1790,11 +1786,11 @@ module.exports = {
                                                                         style="padding-bottom:10px;padding-left:10px;padding-right:10px;">
                                                                         <div style="font-family: Arial, sans-serif">
                                                                             <div class=""
-                                                                                style="font-size: 12px; font-family: Roboto Slab, Arial, Helvetica Neue, Helvetica, sans-serif; mso-line-height-alt: 18px; color: #e8f4dc; line-height: 1.5;">
+                                                                                style="font-size: 12px; font-family: Roboto Slab, Arial, Helvetica Neue, Helvetica, sans-serif; mso-line-height-alt: 18px; color: #072854; line-height: 1.5;">
                                                                                 <p
                                                                                     style="margin: 0; font-size: 14px; text-align: center; mso-line-height-alt: 24px;">
                                                                                     <span
-                                                                                        style="font-size:16px;color:#e8f4dc;">221,
+                                                                                        style="font-size:16px;color:#072854;">221,
                                                                                         Second Floor, Vishala Supreme, Nr.
                                                                                         Torrent Power Sub-Station, S.P. Ring
                                                                                         Road, Nikol, Ahmedabad - 382350</span>
@@ -1827,9 +1823,9 @@ module.exports = {
                                                                     <td class="pad"
                                                                         style="padding-bottom:20px;padding-left:10px;padding-right:10px;padding-top:10px;text-align:center;">
                                                                         <div align="center" class="alignment">
-                                                                            <!--[if mso]><v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="http://www.example.com/" style="height:67px;width:341px;v-text-anchor:middle;" arcsize="53%" strokeweight="1.5pt" strokecolor="#FFFFFF" fillcolor="#072854"><w:anchorlock/><v:textbox inset="0px,0px,0px,0px"><center style="color:#e8f4dc; font-family:Arial, sans-serif; font-size:22px"><![endif]--><a
+                                                                            <!--[if mso]><v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="http://www.example.com/" style="height:67px;width:341px;v-text-anchor:middle;" arcsize="53%" strokeweight="1.5pt" strokecolor="#FFFFFF" fillcolor="#072854"><w:anchorlock/><v:textbox inset="0px,0px,0px,0px"><center style="color:#072854; font-family:Arial, sans-serif; font-size:22px"><![endif]--><a
                                                                                 href="http://www.example.com/"
-                                                                                style="text-decoration:none;display:inline-block;color:#e8f4dc;background-color:#072854;border-radius:35px;width:auto;border-top:2px solid #FFFFFF;font-weight:undefined;border-right:2px solid #FFFFFF;border-bottom:2px solid #FFFFFF;border-left:2px solid #FFFFFF;padding-top:10px;padding-bottom:10px;font-family:Oswald, Arial, Helvetica Neue, Helvetica, sans-serif;font-size:22px;text-align:center;mso-border-alt:none;word-break:keep-all;"
+                                                                                style="text-decoration:none;display:inline-block;color:#072854;background-color:#072854;border-radius:35px;width:auto;border-top:2px solid #FFFFFF;font-weight:undefined;border-right:2px solid #FFFFFF;border-bottom:2px solid #FFFFFF;border-left:2px solid #FFFFFF;padding-top:10px;padding-bottom:10px;font-family:Oswald, Arial, Helvetica Neue, Helvetica, sans-serif;font-size:22px;text-align:center;mso-border-alt:none;word-break:keep-all;"
                                                                                 target="_blank"><span
                                                                                     style="padding-left:45px;padding-right:45px;font-size:22px;display:inline-block;letter-spacing:normal;"><span
                                                                                         style="word-break:break-word;"><span
