@@ -215,23 +215,32 @@ module.exports = {
                                                                                     </div>
                                                                                     <div class="menu-links">
                                                                                         <!--[if mso]><table role="presentation" border="0" cellpadding="0" cellspacing="0" align="center" style=""><tr style="text-align:right;"><![endif]-->
-                                                                                        <!--[if mso]><td style="padding-top:20px;padding-right:20px;padding-bottom:15px;padding-left:20px"><![endif]--><span
+                                                                                        <!--[if mso]><td style="padding-top:20px;padding-right:20px;padding-bottom:15px;padding-left:20px"><![endif]-->
+                                                                                        <a target="_blank" href="https://vmetalsolutions.com/products" style='text-decoration: none;'>
+                                                                                        <span
                                                                                             class="label"
                                                                                             style="mso-hide:false;padding-top:20px;padding-bottom:15px;padding-left:20px;padding-right:20px;display:inline;font-family:'Roboto Slab', Arial, 'Helvetica Neue', Helvetica, sans-serif;font-size:14px;color:false;letter-spacing:normal;">PRODUCTS</span>
+                                                                                        </a>
                                                                                         <!--[if mso]></td><td><![endif]--><span
                                                                                             class="sep"
                                                                                             style="font-size:14px;font-family:'Roboto Slab', Arial, 'Helvetica Neue', Helvetica, sans-serif;color:#000000;">-</span>
                                                                                         <!--[if mso]></td><![endif]-->
-                                                                                        <!--[if mso]><td style="padding-top:20px;padding-right:20px;padding-bottom:15px;padding-left:20px"><![endif]--><span
+                                                                                        <!--[if mso]><td style="padding-top:20px;padding-right:20px;padding-bottom:15px;padding-left:20px"><![endif]-->
+                                                                                        <a target="_blank" href="https://vmetalsolutions.com/services" style='text-decoration: none;'>
+                                                                                        <span
                                                                                             class="label"
                                                                                             style="mso-hide:false;padding-top:20px;padding-bottom:15px;padding-left:20px;padding-right:20px;display:inline;font-family:'Roboto Slab', Arial, 'Helvetica Neue', Helvetica, sans-serif;font-size:14px;color:false;letter-spacing:normal;">SERVICES</span>
+                                                                                        </a>
                                                                                         <!--[if mso]></td><td><![endif]--><span
                                                                                             class="sep"
                                                                                             style="font-size:14px;font-family:'Roboto Slab', Arial, 'Helvetica Neue', Helvetica, sans-serif;color:#000000;">-</span>
                                                                                         <!--[if mso]></td><![endif]-->
-                                                                                        <!--[if mso]><td style="padding-top:20px;padding-right:20px;padding-bottom:15px;padding-left:20px"><![endif]--><span
+                                                                                        <!--[if mso]><td style="padding-top:20px;padding-right:20px;padding-bottom:15px;padding-left:20px"><![endif]-->
+                                                                                        <a target="_blank" href="https://vmetalsolutions.com/uses" style='text-decoration: none;'>
+                                                                                        <span
                                                                                             class="label"
                                                                                             style="mso-hide:false;padding-top:20px;padding-bottom:15px;padding-left:20px;padding-right:20px;display:inline;font-family:'Roboto Slab', Arial, 'Helvetica Neue', Helvetica, sans-serif;font-size:14px;color:false;letter-spacing:normal;">USES</span>
+                                                                                        </a>
                                                                                         <!--[if mso]></td><![endif]-->
                                                                                         <!--[if mso]></tr></table><![endif]-->
                                                                                     </div>
@@ -1790,7 +1799,7 @@ module.exports = {
                                                                                 <p
                                                                                     style="margin: 0; font-size: 14px; text-align: center; mso-line-height-alt: 24px;">
                                                                                     <span
-                                                                                        style="font-size:16px;color:#072854;">221,
+                                                                                        style="font-size:16px;color:#fff;">221,
                                                                                         Second Floor, Vishala Supreme, Nr.
                                                                                         Torrent Power Sub-Station, S.P. Ring
                                                                                         Road, Nikol, Ahmedabad - 382350</span>
@@ -1830,7 +1839,7 @@ module.exports = {
                                                                                     style="padding-left:45px;padding-right:45px;font-size:22px;display:inline-block;letter-spacing:normal;"><span
                                                                                         style="word-break:break-word;"><span
                                                                                             data-mce-style=""
-                                                                                            style="line-height: 44px;">Visit Website</span></span></span></a>
+                                                                                            style="line-height: 44px;color: #fff;">Visit Website</span></span></span></a>
                                                                             <!--[if mso]></center></v:textbox></v:roundrect><![endif]-->
                                                                         </div>
                                                                     </td>
