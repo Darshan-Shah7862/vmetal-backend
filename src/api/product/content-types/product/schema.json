@@ -88,6 +88,10 @@
     },
     "tax": {
       "type": "decimal"
+    },
+    "newDescription": {
+      "type": "richtext",
+      "required": true
     }
   }
 }
